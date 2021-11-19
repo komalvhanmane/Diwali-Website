@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#navbar li a{
+    font-size: 0.6rem;
+    padding: 5px;
+}
+/*------------History------------*/
+/*-----------historycontainer---------*/
+#historycontainer{
+    flex-direction: row;
+    background: #ffa900;
+}
+#historycontainer .box2 img{
+    height: 10px;
+}
+
+#historycontainer .box2 p{
+    padding: 20px;
+    font-size: 1rem;
+}
